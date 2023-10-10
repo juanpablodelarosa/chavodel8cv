@@ -1,2 +1,2 @@
-# chavodel8cv
-chavo cv
+# chavocv
+curriculum del chavo
